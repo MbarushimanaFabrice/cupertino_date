@@ -8,9 +8,9 @@ A Flutter demo showing how the `CupertinoDatePicker` widget handles dates, times
 
 ![Schedule date picker](images/Screenshot%202026-10-12%20143611.jpg)
 
-### Schedule overview
+### Updated schedule overview
 
-![Schedule overview](images/Screenshot%202026-10-12%20143626.jpg)
+![Updated schedule overview](images/Screenshot%202026-10-12%20143626.jpg)
 
 ### Cupertino picker examples
 
