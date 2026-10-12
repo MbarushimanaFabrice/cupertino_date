@@ -2,7 +2,19 @@
 
 A Flutter demo showing how the `CupertinoDatePicker` widget handles dates, times, and date-time values in a polished employee scheduling interface.
 
-![Cupertino date picker demo](images/Screenshot%202026-10-12%20143633.jpg)
+## UI screenshots
+
+### Schedule date picker
+
+![Schedule date picker](images/Screenshot%202026-10-12%20143611.jpg)
+
+### Schedule overview
+
+![Schedule overview](images/Screenshot%202026-10-12%20143626.jpg)
+
+### Cupertino picker examples
+
+![Cupertino picker examples](images/Screenshot%202026-10-12%20143633.jpg)
 
 ## Run the app
 
